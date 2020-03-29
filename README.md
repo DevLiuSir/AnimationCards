@@ -23,4 +23,5 @@
 
 ### Design
 
-![](https://github.com/ChinaHackers/AnimationCards/raw/master/Design/showcase.gif)
+<p align="center"> 
+<img  src="https://github.com/ChinaHackers/AnimationCards/raw/master/Design/showcase.gif" width="363" height="738"></p>
